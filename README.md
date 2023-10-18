@@ -1,4 +1,4 @@
-# DCNN-DNN-SYSTEMS
+#Advanced-Research-in-Artificial-Intelligence-Systems-ARAIS
 Molecular descriptor-based Deep Artificial Neural Networks 
 Project Scientific Files - README:
 Welcome to the repository containing files and documents pertaining to the scientific projects conducted by the collaborators at the "Dunarea de Jos" University of Galati, Romania - Catalina Mercedes Burlacu, Adrian Constantin Burlacu, and Bianca Andreea Burlacu (Nistor), between the years 2021-2024.
